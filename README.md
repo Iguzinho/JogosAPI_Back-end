@@ -1,1 +1,1 @@
-Api de cadastro de jogos BACK-END.
+Api de cadastro de jogos BACK-END CRUD.
