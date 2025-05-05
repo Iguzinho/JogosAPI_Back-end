@@ -1,2 +1,1 @@
-"# JogosAPI_Back-end" 
-"# JogosAPI_Back-end" 
+Api de cadastro de jogos.
