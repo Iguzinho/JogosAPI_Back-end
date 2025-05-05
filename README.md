@@ -1,1 +1,1 @@
-Api de cadastro de jogos.
+Api de cadastro de jogos BACK-END.
